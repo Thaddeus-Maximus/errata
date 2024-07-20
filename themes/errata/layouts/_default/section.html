@@ -1,6 +1,9 @@
 {{ define "main" }}
 
 <div id="path">
+  <a href="/">
+    root
+   </a> <span class="dirsep">/</span>
  {{ $.Scratch.Set "url" ""}}
  {{ range (strings.Split (path.Dir .Path) "/")}}
    {{ $.Scratch.Add "url" "/"}}
