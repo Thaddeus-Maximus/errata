@@ -1,0 +1,13 @@
+baseURL = 'https://errata.thadhughes.xyz/'
+languageCode = 'en-us'
+theme = 'errata'
+title = 'Thad Hughes - Errata'
+
+publishDir = 'docs'
+
+[markup]
+  [markup.asciidocExt]
+    safeMode = 'unsafe'
+
+[_build]
+  publishResources = false

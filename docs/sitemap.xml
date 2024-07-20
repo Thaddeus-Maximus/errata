@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://errata.thadhughes.xyz/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://errata.thadhughes.xyz/categories/</loc>
+  </url><url>
+    <loc>https://errata.thadhughes.xyz/c2g/meekness_clemency/</loc>
+  </url><url>
+    <loc>https://errata.thadhughes.xyz/meekness_clemency/</loc>
+  </url><url>
+    <loc>https://errata.thadhughes.xyz/c2g/</loc>
+  </url><url>
+    <loc>https://errata.thadhughes.xyz/tags/</loc>
+  </url>
+</urlset>

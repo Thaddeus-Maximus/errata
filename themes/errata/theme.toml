@@ -1,0 +1,19 @@
+name = 'Errata'
+license = 'MIT'
+licenselink = 'https://github.com/owner/repo/LICENSE'
+description = 'Super simple theme. Hardly even a theme.'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/Thaddeus-Maximus/thaddeus-maximus.github.io'
+
+# If you have a running demo of the theme
+demosite = 'https://errata.thadhughes.xyz'
+
+[author]
+  name = 'Thad Hughes'
+  homepage = 'https://errata.thadhughes.xyz'
+
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]

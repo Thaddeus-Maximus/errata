@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div id="path">
+ {{ $.Scratch.Set "url" ""}}
+ {{ range (strings.Split (path.Dir .Path) "/")}}
+   {{ $.Scratch.Add "url" "/"}}
+   {{ $.Scratch.Add "url"  . }}
+   {{ $.Scratch.Set "this"  . }}
+   <a href="{{ $.Scratch.Get "url" }}">
+   	{{ with $.GetPage ($.Scratch.Get "url") }}
+	   {{ .Title | default ($.Scratch.Get "this") }}
+   	{{ end }}
+   </a> <span class="dirsep">/</span>
+ {{ end }}
+
+ <span>{{ .Title | default (.File.BaseFileName) }}</span>
+</div>
+
+<div id="content">
+ {{ .Content }}
+</div>
+{{ end }}
