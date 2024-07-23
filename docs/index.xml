@@ -7,6 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://errata.thadhughes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>4 S&#39;s of Design</title>
+      <link>https://errata.thadhughes.xyz/4s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errata.thadhughes.xyz/4s/</guid>
+      <description>When I mentored FLL, I came up with three design principles that I could instill in my students. It seemed to take root. The three S’s: - Simple - Solid - Servicable
+I enjoy expounding and talking about how to improve systems at length, but this pnemonic instills some fundamentals of good design. It’s not inherent to mechanical, or electric, or software design… it’s just good principles.
+Simple Everything should be made simple.</description>
+    </item>
+    
+    <item>
+      <title>72 Instruments of Good Works</title>
+      <link>https://errata.thadhughes.xyz/72tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errata.thadhughes.xyz/72tools/</guid>
+      <description>72 Instruments of Good Works From St. Benedict of Nursia First of all, love the Lord God with your whole heart, your whole soul, and your whole strength. Then, love your neighbor as yourself. Do not murder. Do not commit adultery. Do not steal. Do not covet. Do not bear false witness. Honor all people. Do not do to another what you would not have done to yourself. Deny oneself in order to follow Christ.</description>
+    </item>
+    
+    <item>
+      <title>Arithmetic vs Geometric Thinking</title>
+      <link>https://errata.thadhughes.xyz/arithmetic_v_geometric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errata.thadhughes.xyz/arithmetic_v_geometric/</guid>
+      <description>Arithmetic vs Geometric Thinking The development of early western philosophy is undoubtedly intertwined with mathematics, and in particular, geometry.
+You may recall from your math classes, or from calculus two, geometric series and arithmetic series.
+As a reminder:
+a geometric series is one where the next number is some constant multiple (a ratio, or proportion) of the previous, e.g. 1, 3, 9, 27, 81, 243 A arithmetic series is one where the next number is some constant additive of the previous, e.</description>
+    </item>
+    
+    <item>
       <title>Meekness and Clemency</title>
       <link>https://errata.thadhughes.xyz/c2g/meekness_clemency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,6 +54,15 @@
       
       <guid>https://errata.thadhughes.xyz/meekness_clemency/</guid>
       <description>Meekness and Clemency Quotes from Scripture Matthew 11:27-30: &amp;ldquo;All things have been delivered to me by My Father; and no one knows the Son except the Father, and no one knows the Father except the Son, and any one to whom the Son chooses to reveal Him. Come to Me, all who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me; for I am meek and lowly in heart, and you will find rest for your souls.</description>
+    </item>
+    
+    <item>
+      <title>Misc Quotes</title>
+      <link>https://errata.thadhughes.xyz/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errata.thadhughes.xyz/quotes/</guid>
+      <description>Do the day’s work. If it be to protect the rights of the weak, whoever objects, do it. If it be to help a powerful corporation better to serve the people, whatever the opposition, do that. Expect to be called a stand patter, but don’t be a stand patter. Expect to be called a demagogue, but don’t be a demagogue. Don’t hesitate to be as revolutionary as science. Don’t hesitate to be as reactionary as the multiplication table.</description>
     </item>
     
   </channel>
